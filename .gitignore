@@ -1,0 +1,10 @@
+/bin/
+.settings
+.project
+.buildpath
+log/
+vendor/
+.DS_Store
+aws.json
+
+
